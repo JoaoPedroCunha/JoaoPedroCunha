@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-**Free code camp**: https://www.freecodecamp.org/Albafics
-**My Duolingo**: https://www.duolingo.com/profile/Albafics
+[My FreeCodeCamp](https://www.freecodecamp.org/JoaoPedroCunha)
+[My Duolingo](https://www.duolingo.com/profile/Albafics)
 
 <!--
 **jp85dev/jp85dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
