@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [My FreeCodeCamp](https://www.freecodecamp.org/JoaoPedroCunha)
-==========================================
 [My Duolingo](https://www.duolingo.com/profile/Albafics)
 -----------------------------------------
 ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) 
