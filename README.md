@@ -4,6 +4,11 @@
 ==========================================
 [My Duolingo](https://www.duolingo.com/profile/Albafics)
 -----------------------------------------
+![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) 
+![HTML](https://img.icons8.com/color/96/000000/html-5.png)
+![CSS](https://img.icons8.com/color/96/000000/css3.png)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroCunha&show_icons=true&theme=tokyonight)
 
 <!--
 **jp85dev/jp85dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
