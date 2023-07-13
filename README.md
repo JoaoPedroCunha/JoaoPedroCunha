@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me 
-My name is João Pedro, I'm 21 years old. I'm a full stack development student at Digital College
+My name is João Pedro, I'm 21 years old. I'm a full stack development student at Digital College.
 
 [My FreeCodeCamp](https://www.freecodecamp.org/JoaoPedroCunha)
 ---
