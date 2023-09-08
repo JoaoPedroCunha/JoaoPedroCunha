@@ -10,6 +10,7 @@ My name is João Pedro, I'm 21 years old. I'm a full stack development student a
 ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) 
 ![HTML](https://img.icons8.com/color/96/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/96/000000/css3.png)
+![GIT](https://img.icons8.com/color/96/000000/git.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroCunha&show_icons=true&theme=tokyonight)
 
