@@ -5,7 +5,7 @@ My name is João Pedro, I'm 21 years old. I'm a full stack development student a
 
 [My FreeCodeCamp](https://www.freecodecamp.org/JoaoPedroCunha)
 ---
-[My Duolingo](https://www.duolingo.com/profile/Albafics)
+[My Linkedin](https://www.linkedin.com/in/joão-pedro-cunha-de-sousa-42397b21b/)
 -----------------------------------------
 ![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) 
 ![HTML](https://img.icons8.com/color/96/000000/html-5.png)
